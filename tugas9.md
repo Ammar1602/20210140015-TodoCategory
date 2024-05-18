@@ -7,5 +7,3 @@
 ## 2. Browser Category
 
 ![Alt text](screenshot/tugas9/2.png)
-
-## 3.
