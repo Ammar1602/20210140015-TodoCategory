@@ -7,4 +7,4 @@
 ## 2. Browser Category
 
 ![Alt text](screenshot/tugas9/2.png)
-hdh
+maaf mas telat kemaren error, maaf juga mas ini commitnya banyak soalnya tadi salah tempat reponya 
